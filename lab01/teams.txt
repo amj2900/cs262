@@ -1,0 +1,35 @@
+1. 
+a) Junior
+b) BS Engineering
+c) 112: B 212: N/A 214: A
+
+2
+a)I've done some things with javascript but not enough to say I'm proficient
+in it yet
+
+b)No
+
+b)all three
+	-Slack: used for the calvin mars rover design team so teams could communicate
+	-Trello: for group projects or apartment planning
+	-Git: For uploading my 214 projects and for mars rover to create shared 
+		documentation
+
+c)I feel the aforementioned map one has potential. I'm aware that other people would 
+also like to work on a concept like this.
+
+3. 
+a)Openness: 67
+Conscientiousness: 58
+Extraversion: 40
+Agreeableness: 69
+Neuroticism: 62.5
+
+b. Like to work with: Ha Ram Koo, Joel Muyskens, Duncan Van Keulan, Hyechan Jun
+
+4.
+As you've likely noticed, I'm not a CS major. I'm a computer engineering major that's
+minoring in CS. So my coding experience will likely be the least of my group, 
+however, my experience working on the programming team for mars rover
+has helped me develop better team work and communication skills so I
+can easily adapt to new concepts.

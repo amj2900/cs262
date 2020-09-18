@@ -1,0 +1,10 @@
+Exercise 1.1
+
+
+Create a system for incoming students unfamiliar with the campus that can draw
+a path on a map for them or tell them where buildings are. Basically creating a 
+more optimized map for Calvin's campus.
+
+An optimized system for Calvin that makes it easier to find out if professors have
+office hours or a professor can mark if they are available for assistance 
+and could update their office hours if necessary.
