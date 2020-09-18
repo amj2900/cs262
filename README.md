@@ -6,6 +6,8 @@ This lab is based on
 
 ![Lab 3](https://cs.calvin.edu/courses/cs/262/kvlinden/03management/lab.html)
 
-Answers
+Answers:
+*answer 1
+*
 
 
