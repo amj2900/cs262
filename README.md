@@ -2,10 +2,10 @@
 
 CS 262- Lab 3
 
-This lab is based on
+This lab is based on ![Lab 3](https://cs.calvin.edu/courses/cs/262/kvlinden/03management/lab.html)
 
-https://cs.calvin.edu/courses/cs/262/kvlinden/03management/lab.html
-
-Answers
+Answers:
+* answer 1
+*
 
 
