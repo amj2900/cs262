@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 05cf5bf41ff39e595fe272675dcd902fa511503b
 -- Retrieve lost of games ordered by data from recent to least recent
   SELECT * 
     FROM Game
@@ -54,7 +50,4 @@ WHERE P1.name = P2.name
   AND P1.ID < P2.ID;
 --To avoid displaying the names more than twice, ensures it displays each result once
 --When wanting to compare data in a table with other data that is similar in structure.
-<<<<<<< HEAD
 	
-=======
->>>>>>> 05cf5bf41ff39e595fe272675dcd902fa511503b
