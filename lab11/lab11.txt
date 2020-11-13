@@ -1,0 +1,22 @@
+Formatter changed spacing of functions from
+
+ex app.use(function(req, res, next) {   to    app.use(function (req, res, next) {
+  next(createError(404));		        next(createError(404));
+  });                                         });
+
+
+in users.js
+
+It highlighted next as never used
+
+router.get('/', function(req, res, next) {
+  res.send('respond with a resource');
+});
+
+so I changed it to
+
+router.get('/', function(req, res) {
+  res.send('respond with a resource');
+});
+
+same change made with index.js
